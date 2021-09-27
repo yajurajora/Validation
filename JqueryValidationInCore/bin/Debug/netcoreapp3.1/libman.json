@@ -1,0 +1,37 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "sweetalert@latest",
+      "destination": "wwwroot/lib/sweetalert/",
+      "files": [
+        "dist/sweetalert.min.js",
+        "typings/core.d.ts",
+        "typings/sweetalert.d.ts",
+        "typings/modules/actions.d.ts",
+        "typings/modules/event-listeners.d.ts",
+        "typings/modules/state.d.ts",
+        "typings/modules/utils.d.ts",
+        "typings/modules/class-list/index.d.ts",
+        "typings/modules/init/buttons.d.ts",
+        "typings/modules/init/content.d.ts",
+        "typings/modules/init/icon.d.ts",
+        "typings/modules/init/index.d.ts",
+        "typings/modules/init/modal.d.ts",
+        "typings/modules/init/overlay.d.ts",
+        "typings/modules/init/text.d.ts",
+        "typings/modules/markup/buttons.d.ts",
+        "typings/modules/markup/content.d.ts",
+        "typings/modules/markup/icons.d.ts",
+        "typings/modules/markup/index.d.ts",
+        "typings/modules/markup/modal.d.ts",
+        "typings/modules/markup/overlay.d.ts",
+        "typings/modules/options/buttons.d.ts",
+        "typings/modules/options/content.d.ts",
+        "typings/modules/options/deprecations.d.ts",
+        "typings/modules/options/index.d.ts"
+      ]
+    }
+  ]
+}
